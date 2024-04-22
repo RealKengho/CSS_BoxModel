@@ -1,0 +1,29 @@
+* {padding: 0;
+  margin: 0;
+  font-size: 40px;
+}
+
+.box-one {
+  background-color: red;
+  padding: 10px;
+  height: 100px;
+  width: 100px;
+  border: 30px solid purple;
+  margin: 60px;
+  text-align: center;
+
+
+}
+
+
+
+.box-two {
+  background-color: blue;
+  border: solid green;
+padding: 10px;
+height: 100px;
+width: 100px;
+border: 30px solid purple;
+text-align: center;
+margin: 70px;
+}
